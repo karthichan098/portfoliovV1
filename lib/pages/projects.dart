@@ -42,7 +42,7 @@ class Projects extends StatelessWidget {
                 title: 'Portfolio App',
                 description: 'A personal portfolio app built using Flutter to showcase my skills, projects, and experience. The app features a sleek design, interactive elements, and sections for contact, blog, and downloadable resume.',
                 technologies: const ['Flutter', 'Dart', 'Firebase'],
-                projectLink: 'https://github.com/karthik/portfolio-app',
+                projectLink: 'https://github.com/karthichan098/portfoliovV1.git',
                 width: cardWidth,
               ),
             ],
